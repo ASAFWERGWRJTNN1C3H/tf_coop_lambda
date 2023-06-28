@@ -2670,9 +2670,8 @@
 			"image_inventory"	"backpack/weapons/c_models/c_double_barrel"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"model_player"	"models/weapons/lambda/v_models/v_scattergun_scout.mdl"
-			"model_world"	"models/weapons/lambda/v_models/v_scattergun_scout.mdl"
-			"attach_to_hands" "0"
+			"model_player"	"models/weapons/c_models/c_double_barrel.mdl"
+			"attach_to_hands" "1"
 			"inspect_panel_dist" "38"
 			"used_by_classes"
 			{
@@ -14410,7 +14409,7 @@
 				"can_deal_mvm_penetration_damage"	"1"
 				"can_deal_long_distance_damage"	"1"
 			}
-			"show_in_armory"	"1"
+			"show_in_armory"	"0"
 			"item_type_name"	"#TF_Weapon_Scattergun"
 			"item_name"	"#TF_Weapon_PEP_Scattergun"
 			"item_description"	"#TF_Weapon_PEP_Scattergun_Desc"
