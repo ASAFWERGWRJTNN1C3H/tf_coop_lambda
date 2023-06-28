@@ -1,0 +1,12 @@
+"Patch"
+{
+	include "materials\models/player/spy/hwm/spy_head_red.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/player/spy/hwm/spy_head_green"
+	"$compress"    "models/player/spy/hwm/spy_head_green_compress"
+	"$stretch"     "models/player/spy/hwm/spy_head_green_stretch"
+	"$bumpmap"     "models/player/shared/shared_normal"
+	}
+}

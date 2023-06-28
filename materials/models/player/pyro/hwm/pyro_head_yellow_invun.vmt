@@ -1,0 +1,10 @@
+"Patch"
+{
+	include "materials\models\player\shared\yellow_invun.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/player/pyro/hwm/pyro_head_yellow_invun"
+	"$detailblendfactor" "0"
+	}
+}

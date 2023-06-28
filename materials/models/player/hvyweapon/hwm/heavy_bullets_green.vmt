@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models/player/hvyweapon/hwm/heavy_bullets_red.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/player/hvyweapon/hwm/heavy_bullets_green"
+	}
+}

@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models/player/sniper/hwm/sniperrifle_shell_red.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/player/sniper/hwm/sniperrifle_shell_green"
+	}
+}
