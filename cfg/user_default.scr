@@ -47,6 +47,13 @@ DESCRIPTION INFO_OPTIONS
 		{ CATEGORY }
 	}
 
+	"name"
+	{
+		"Username"
+		{ STRING }
+		{ "" }
+	}
+	
 	"con_enable"
 	{
 		"#GameUI_DeveloperConsoleCheck"
