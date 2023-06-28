@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/vgui/note"
+	"$alphatest" 1
+	$model 1
+}
