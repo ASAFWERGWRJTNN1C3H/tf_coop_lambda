@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/buildables/teleporter/teleportspin_red"
+	"$translucent" "1"
+	"$model" "1"
+	"$surfaceprop"	"default"
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$detail" "models/buildables/teleporter/teleportspin_glow_red"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "5"
+}

@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Models/buildables/dispenser/dispenser_upgrades_animated"
+//	$texture2  "Models/buildables/dispenser/dispenser_upgrades_animated2"
+
+	"Proxies"
+		{
+			"AnimatedTexture"
+			{
+				"animatedtexturevar" "$basetexture"
+				"animatedtextureframenumvar" "$frame"
+				"animatedtextureframerate" 35
+			}
+		}
+}
+

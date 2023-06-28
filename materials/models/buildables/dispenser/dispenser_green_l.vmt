@@ -1,0 +1,14 @@
+"Patch"
+{
+	include "materials/models/buildables/dispenser/dispenser_green.vmt"
+	
+	insert
+	{
+	>=dx90
+	{
+	"$selfillummask" "models\buildables\dispenser\dispenser_light"
+	"$selfillum" "1"
+	"$selfillumtint" "[0.85 1.68 0.85]"
+	}
+	}
+}

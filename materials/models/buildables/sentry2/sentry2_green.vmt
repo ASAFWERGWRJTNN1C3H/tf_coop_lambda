@@ -1,0 +1,13 @@
+"Patch"
+{
+	include "materials/models/buildables/sentry2/sentry2.vmt"
+	
+	insert
+	{
+		"$basetexture"	"models\buildables\sentry2\sentry2_green"
+		>=dx90
+		{
+			"$selfillumtint" "[4 10 4]"
+		}
+	}
+}

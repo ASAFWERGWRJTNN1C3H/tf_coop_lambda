@@ -1,0 +1,14 @@
+"Patch"
+{
+	include "materials/models/buildables/sentry2/sentry2_yellow.vmt"
+	
+	insert
+	{
+	>=dx90
+	{
+	"$selfillummask"	"models\buildables\sentry2\sentry2_light"
+	"$selfillumtint" "[8 8 1]"
+	"$selfillum" "1"
+	}
+	}
+}
